@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Linking` API to open a URL. The URL opens correctly in the simulator, but when running on a physical device, the app crashes without any error messages in the console.
